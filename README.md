@@ -1,7 +1,7 @@
 ## python-dsa
 
 # DSA Topics
-
+Maths, Pattern and Recursion
 🟢 1. Complexity Analysis (START HERE)
 Topics:
 Time Complexity (Big-O, Big-Theta, Big-Omega)
